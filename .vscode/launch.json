@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Launch script",
+            "request": "launch",
+            "type": "php",
+            "program": "${workspaceFolder}/cli.php",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+        },
+    ]
+}
